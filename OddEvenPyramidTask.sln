@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenPyramidTask", "OddEvenPyramidTask\OddEvenPyramidTask.csproj", "{FC5CA389-E5A2-4A8C-8419-D71F2D312BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenPyramidTaskTests", "OddEvenPyramidTaskTests\OddEvenPyramidTaskTests.csproj", "{CD6B9734-0D28-442F-82B6-39A56AE26450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC5CA389-E5A2-4A8C-8419-D71F2D312BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC5CA389-E5A2-4A8C-8419-D71F2D312BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC5CA389-E5A2-4A8C-8419-D71F2D312BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6B9734-0D28-442F-82B6-39A56AE26450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6B9734-0D28-442F-82B6-39A56AE26450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6B9734-0D28-442F-82B6-39A56AE26450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6B9734-0D28-442F-82B6-39A56AE26450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
