@@ -10,7 +10,10 @@ namespace OddEvenPyramidTask
     {
         /*
          * Created this Nested class here as non other classes would care or share this
-         * And no other knowledge of this class is needed in other places
+         * And no other knowledge of this class is needed in other places.
+         * As well this is done in order to track previous node.
+         * In a similar task to find the largest path you would add up the values and
+         * this way find it.
          */
         private class Node
         {
